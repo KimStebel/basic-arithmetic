@@ -24,7 +24,7 @@ object Main {
           if (input == res) {
 			      println("correct!")
 			    } else {
-			      println("nope, it's " + res)
+			      println("not quite, it's " + res)
 			    }
       	}
       }
